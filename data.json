@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Neuer Eintrag",
+    "lat": "0",
+    "lon": "0",
+    "status": 1
+  }
+]
