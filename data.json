@@ -51,6 +51,13 @@
     "status": 1,
     "lat": 48.82478,
     "lon": 9.531445,
-    "info": "berebelag besch‰digt"
+    "info": "berebelag besch√§digt"
+  },
+  {
+    "name": "",
+    "status": 1,
+    "lat": 0,
+    "lon": 0,
+    "info": ""
   }
 ]
