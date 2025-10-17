@@ -4,7 +4,7 @@
     "lat": "48.79339",
     "lon": "9.548667",
     "status": 3,
-    "info": "Kˆnnenberg"
+    "info": "K√∂nnenberg"
   },
   {
     "name": "Herr Auperle",
@@ -21,7 +21,7 @@
     "info": "-Heuweg"
   },
   {
-    "name": "Felix Weiﬂert\t",
+    "name": "Felix Wei√üert\t",
     "status": 1,
     "lat": 48.797429,
     "lon": 9.556198,
@@ -53,7 +53,7 @@
     "status": 1,
     "lat": 48.82478,
     "lon": 9.531445,
-    "info": "Oberebelag besch√§digt"
+    "info": "Oberebelag besch√É¬§digt"
   },
   {
     "name": "Frau Siegle",
@@ -74,6 +74,6 @@
     "status": 2,
     "lat": 48.80379,
     "lon": 9.500773,
-    "info": "Schlagloch aktion Hinter den Kl‰ranlage Weile"
+    "info": "Schlagloch aktion Hinter den Klranlage Weile"
   }
 ]
