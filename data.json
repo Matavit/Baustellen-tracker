@@ -75,5 +75,12 @@
     "lat": 48.80379,
     "lon": 9.500773,
     "info": "Schlagloch aktion Hinter den Klaranlage Weile"
+  },
+  {
+    "name": "",
+    "status": 1,
+    "lat": 0,
+    "lon": 0,
+    "info": ""
   }
 ]
