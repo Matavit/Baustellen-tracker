@@ -68,5 +68,12 @@
     "lat": 48.831902,
     "lon": 9.488425,
     "info": "Mannshaupten"
+  },
+  {
+    "name": "",
+    "status": 1,
+    "lat": 0,
+    "lon": 0,
+    "info": ""
   }
 ]
