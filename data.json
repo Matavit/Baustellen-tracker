@@ -61,5 +61,12 @@
     "lat": 48.828726,
     "lon": 9.505151,
     "info": "1809/0_Fleckenäcker Schornbach"
+  },
+  {
+    "name": "",
+    "status": 1,
+    "lat": 0,
+    "lon": 0,
+    "info": ""
   }
 ]
