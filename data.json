@@ -1,12 +1,5 @@
 [
   {
-    "name": "Frau Nowak",
-    "lat": "48.79339",
-    "lon": "9.548667",
-    "status": 3,
-    "info": "Könnenberg"
-  },
-  {
     "name": "Herr Auperle",
     "lat": "\n\n48.840712",
     "lon": "\n\n9.504001",
@@ -21,7 +14,7 @@
     "info": "-Heuweg"
   },
   {
-    "name": "Felix Weißert\t",
+    "name": "Felix WeiÃŸert\t",
     "status": 1,
     "lat": 48.797429,
     "lon": 9.556198,
@@ -53,7 +46,7 @@
     "status": 1,
     "lat": 48.82478,
     "lon": 9.531445,
-    "info": "Oberebelag beschÃ¤digt"
+    "info": "Oberebelag beschÃƒÂ¤digt"
   },
   {
     "name": "Frau Siegle",
@@ -88,6 +81,6 @@
     "status": 1,
     "lat": 48.828726,
     "lon": 9.505151,
-    "info": "1809/0_Flecken�cker�Schornbach"
+    "info": "1809/0_Fleckenäcker Schornbach"
   }
 ]
