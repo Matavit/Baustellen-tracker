@@ -1,13 +1,13 @@
 [
   {
-    "name": "Herr Auperle",
+    "name": "S",
     "lat": "\n\n48.840712",
     "lon": "\n\n9.504001",
     "status": 2,
     "info": "Streicher Ebene"
   },
   {
-    "name": "Felix WeiÃŸert\t",
+    "name": "Felix WeiÃƒÅ¸ert\t",
     "status": 1,
     "lat": 48.846616,
     "lon": 9.524093,
@@ -25,7 +25,7 @@
     "status": 1,
     "lat": 48.82478,
     "lon": 9.531445,
-    "info": "Oberebelag besch�digt"
+    "info": "Oberebelag beschÃdigt"
   },
   {
     "name": "Kirchsteigerbach",
@@ -60,7 +60,7 @@
     "status": 2,
     "lat": 48.828726,
     "lon": 9.505151,
-    "info": "1809/0_Fleckenäcker Schornbach"
+    "info": "1809/0_FleckenÃ¤ckerÂ Schornbach"
   },
   {
     "name": "20251013_flst 1809-0",
