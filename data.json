@@ -7,7 +7,7 @@
     "info": "Streicher Ebene"
   },
   {
-    "name": "HEGNAUHOFWEG�",
+    "name": "HEGNAUHOFWEG ",
     "status": 3,
     "lat": 48.846616,
     "lon": 9.524093,
@@ -25,7 +25,7 @@
     "status": 3,
     "lat": 48.82478,
     "lon": 9.531445,
-    "info": "Oberebelag beschÃƒÆ’digt"
+    "info": "Oberebelag beschÃƒÆ’Ã†â€™digt"
   },
   {
     "name": "Kirchsteigerbach",
@@ -39,38 +39,38 @@
     "status": 2,
     "lat": 48.831902,
     "lon": 9.488425,
-    "info": "Einmündungsbereich des Feldwegs zur Straße"
+    "info": "EinmÃ¼ndungsbereich des Feldwegs zur StraÃŸe"
   },
   {
     "name": "Liste A75 Gegen Schornbach 53",
     "status": 1,
     "lat": 48.819415,
     "lon": 9.511158,
-    "info": "Verdolen,Fahrbahn, Wassergraben ert�chtigung"
+    "info": "Verdolen,Fahrbahn, Wassergraben ertüchtigung"
   },
   {
-    "name": "Liste A77 Ramsbach bei G�rtner Hauber 4255/0",
+    "name": "Liste A77 Ramsbach bei Gärtner Hauber 4255/0",
+    "status": 1,
+    "lat": 48.81226,
+    "lon": 0,
+    "info": ""
+  },
+  {
+    "name": "Liste A79 Lauwiesen Bach Straße",
     "status": 1,
     "lat": 0,
     "lon": 0,
     "info": ""
   },
   {
-    "name": "Liste A79 Lauwiesen Bach Stra�e",
+    "name": "Liste A80 Eugen Bentel Straße 20- Flst 3263/1",
     "status": 1,
     "lat": 0,
     "lon": 0,
     "info": ""
   },
   {
-    "name": "Liste A80 Eugen Bentel Stra�e 20- Flst 3263/1",
-    "status": 1,
-    "lat": 0,
-    "lon": 0,
-    "info": ""
-  },
-  {
-    "name": "Liste A81 Bergstra�e Miedelsbach",
+    "name": "Liste A81 Bergstraße Miedelsbach",
     "status": 1,
     "lat": 0,
     "lon": 0,
