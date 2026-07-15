@@ -11,14 +11,14 @@
     "status": 3,
     "lat": 48.799308,
     "lon": 9.551717,
-    "info": "Gegen�ber Tier Heim"
+    "info": "Gegenüber Tier Heim"
   },
   {
     "name": "Schmalzgasse",
     "status": 4,
     "lat": 48.846616,
     "lon": 9.524093,
-    "info": "Nach dem Hochwasser tief ausgesp�lt und nicht mehr befahrbar."
+    "info": "Nach dem Hochwasser tief ausgespUElt und nicht mehr befahrbar."
   },
   {
     "name": "Wolfsgarten",
@@ -77,7 +77,7 @@
     "info": "im Phase Ausschreibung, Fahrbahn Absenkung"
   },
   {
-    "name": "Liste A85 Flst 1875/1_ Miedelsbach ",
+    "name": "Liste A85 Flst 1875/1_ MiedelsbachÂ ",
     "status": 1,
     "lat": 48.844756,
     "lon": 9.535739,
