@@ -103,5 +103,12 @@
     "lat": 48.827637,
     "lon": 9.51205,
     "info": "Verdolen, Wassergraben/ Kontrol Schacht, Bach Anschluss"
+  },
+  {
+    "name": "",
+    "status": 1,
+    "lat": 0,
+    "lon": 0,
+    "info": ""
   }
 ]
