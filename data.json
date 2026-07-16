@@ -110,5 +110,12 @@
     "lat": 48.820978,
     "lon": 9.526852,
     "info": "Schlagloch Aktion"
+  },
+  {
+    "name": "",
+    "status": 1,
+    "lat": 0,
+    "lon": 0,
+    "info": ""
   }
 ]
